@@ -1,6 +1,7 @@
 # Image Captioning 
 A simple app that generates captions for images using a Transformer decoder and ResNet-18 features. Upload your own image or try a sample to see what the model describes!
 
+![demo](demo.gif)
 ---
 
 ## Project Notebook
@@ -8,7 +9,6 @@ A simple app that generates captions for images using a Transformer decoder and 
 
 ## Live Demo
 - [Try it on Streamlit Cloud](https://image-captioning-samir.streamlit.app)
-
 ---
 
 ## Model Info
