@@ -9,6 +9,7 @@ A simple app that generates captions for images using a Transformer decoder and 
 
 ## Live Demo
 - [Try it on Streamlit Cloud](https://image-captioning-samir.streamlit.app)
+
 ---
 
 ## Model Info
